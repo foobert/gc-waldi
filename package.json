@@ -1,0 +1,30 @@
+{
+  "name": "gc-logs",
+  "version": "1.0.0",
+  "description": "Generating logs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint ."
+  },
+  "repository": "https://github.com/foobert/gc-waldi",
+  "author": "foobert",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-boost": "^0.1.6",
+    "debug": "^3.1.0",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^2.1.2",
+    "superagent": "^3.8.3",
+    "tmp": "0.0.33",
+    "uuid": "^3.2.1",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-prettier": "^2.9.0"
+  }
+}
