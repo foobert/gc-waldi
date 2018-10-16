@@ -1,5 +1,7 @@
 # Waldi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/foobert/gc-waldi.svg)](https://greenkeeper.io/)
+
 Waldi is a tool to read GPX tracks and semi-automatically post found logs to
 Geocaching.com
 
